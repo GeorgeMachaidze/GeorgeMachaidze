@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Samiori<br>🌱 I’m currently learning Back-End Development<br>💬⚡ Fun fact - I am lazy but smart  
-
+ 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GeorgeMachaidze13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_machaidze13/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-machaidze-69bb65164/) 
