@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Samiori<br>🌱 I’m currently learning Back-End Development<br>💬⚡ Fun fact - I am lazy but smart 
+🔭 I’m currently working on Samiori<br>🌱 I’m currently learning Back-End Development<br>💬⚡ Fun fact - I am lazy but smart  
 
 
 ## 🌐 Socials:
